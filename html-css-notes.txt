@@ -1,2 +1,16 @@
 Notes for html-css course on udacity
 
+HTML - HyperText Markup Language - the standard markup language used to create web pages.
+
+CSS - Cascading Style Sheets - style sheet language used for describing the look and formatting of a document written in a markup language.
+
+DOM - Document Object Model - a cross-platform and language-independent convention for representing and interacting with objects in HTML (and other markup languages). The nodes of every document are organized in a tree structure, called the DOM tree
+
+HTML uses tags to define the content and structure of the page.  The style of the page is defined by CSS.
+
+All webpages are broken into boxes.  Where you put the boxes is the makeup for the tree that you will create.
+
+In CSS you first write a selector - selector can be an element or a class or other.  p or div or .description (class selectors start with . )
+
+Semantic Elements - are more specific than basic elements - example <h1> is semantic where <div> is not.
+
