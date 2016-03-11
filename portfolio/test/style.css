@@ -1,0 +1,32 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.image{
+	max-width: 460px;
+	margin: 0px 20px 0px 20px;
+
+}
+
+.description{
+	max-width: 705px;
+	color: #7C8B88;
+	font-family:calibri;
+}
+
+.app{
+	display:flex;
+}
+
+h1{
+	background-color: #33BEBE;
+}
+.title{
+	color:white;
+	font-family: calibri; 
+	font-size:48px;
+	text-transform: uppercase;
+}
